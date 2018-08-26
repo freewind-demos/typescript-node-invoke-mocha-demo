@@ -1,7 +1,9 @@
-TypeScript Base Demo
-====================
+TypeScript Mocha Chai Testing Demo
+==================================
+
+Use mocha and chai to write tests with typescript.
 
 ```
 npm install
-npx ts-node hello.ts
+npm test
 ```
