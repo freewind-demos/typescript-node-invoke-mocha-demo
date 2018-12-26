@@ -1,7 +1,7 @@
-TypeScript Mocha Chai Testing Demo
+TypeScript Mocha "mocha.opts" Demo
 ==================================
 
-Use mocha and chai to write tests with typescript.
+"mocha.opts" should be inside `test/`
 
 ```
 npm install
