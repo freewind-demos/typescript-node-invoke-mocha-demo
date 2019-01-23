@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "mocha test/*-test.ts"
+    "test": "node ./node_modules/mocha/bin/mocha test/*-test.ts"
   },
   "devDependencies": {
     "@types/chai": "^4.1.4",
